@@ -1,0 +1,23 @@
+# Node modules
+node_modules
+
+# Logs
+logs
+*.log
+
+# testing
+coverage
+.scannerwork
+
+# production
+build
+
+# misc
+.DS_Store
+npm-debug.log
+npm-debug.log.*
+.idea/
+yarn-debug.log*
+yarn-error.log*
+/app/.env.local
+/**/junit.xml
