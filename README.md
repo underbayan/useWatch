@@ -5,25 +5,25 @@ A custom React hook that leverages the `useEffect` hook to watch for changes in 
 
 ## Installation
 
-Install the `useWatch` package using npm:
+Install the `use-watch-effect` package using npm:
 
 ```bash
-npm install useWatch
+npm install use-watch-effect
 ```
 
 or using Yarn:
 
 ```bash
-yarn add useWatch
+yarn add use-watch-effect
 ```
 
 ## Usage
 
-Import the `useWatch` hook in your React component:
+Import the `use-watch-effect` hook in your React component:
 
 ```javascript
 import React from 'react';
-import useWatch from 'useWatch';
+import useWatch from 'use-watch-effect';
 ```
 
 Use the `useWatch` hook in your component:

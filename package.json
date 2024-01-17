@@ -1,5 +1,5 @@
 {
-  "name": "useWatch",
+  "name": "use-watch-effect",
   "version": "1.0.0",
   "description": "A utility that leverages the useEffect hook to watch for changes in each dependency.",
   "main": "dist/index.js",
